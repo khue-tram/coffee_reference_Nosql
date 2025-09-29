@@ -13,7 +13,6 @@ To apply NoSQL concepts in a real-world context by importing, modeling, and anal
 ## 🛠️ Technologies Used  
 - MongoDB (database storage)  
 - NoSQL Booster (query execution environment)  
-- JavaScript (MongoDB shell syntax)  
 - Aggregation Framework
 
 ## 📈 Key Features  
