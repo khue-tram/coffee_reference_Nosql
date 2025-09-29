@@ -31,4 +31,5 @@ To apply NoSQL concepts in a real-world context by importing, modeling, and anal
 
 ## 🙋‍♀️ Author  
 Khue Tram — exploring business analytics through SQL, NoSQL, and Python tools, with a focus on turning data into strategic insight.  
-[LinkedIn](https://www.linkedin.com/in/khue-tram/)
+[GitHub Profile](https://github.com/khue-tram)
+[LinkedIn Profile](https://www.linkedin.com/in/khue-tram/)
